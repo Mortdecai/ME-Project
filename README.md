@@ -1,10 +1,10 @@
 Repository for ME-Project
 
 
-doc - Text files
+/doc - Text files
 
-ref - References, related literatures, etc..
+/ref - References, related literatures, etc..
 
-res - Other useful resources
+/res - Other useful resources
 
-sim - Simulation files
+/sim - Simulation files
