@@ -1,5 +1,5 @@
 #! /bin/bash
 
-sudo git add .
-sudo git commit -m "Updated contents"
-sudo git push
+git add .
+git commit -m "Updated contents"
+git push
