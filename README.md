@@ -1,7 +1,7 @@
 Repository for ME-Project
 
 
-/doc - Text files
+/doc - Text files for the project manuscript
 
 /ref - References, related literatures, etc..
 
