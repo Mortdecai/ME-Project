@@ -8,3 +8,5 @@ Repository for ME-Project
 /res - Other useful resources
 
 /sim - Simulation files
+
+/auto - Project and repository automation utilities

@@ -1,3 +1,3 @@
 #! /bin/sh
 
-python3 ./builder/src/builder.py ./ME-Project.docx.builder
+python3 ./auto/builder/src/builder.py ./auto/ME-Project.docx.builder

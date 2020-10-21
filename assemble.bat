@@ -1,1 +1,1 @@
-py .\builder\src\builder.py .\ME-Project.docx.builder
+py .\auto\builder\src\builder.py .\auto\ME-Project.docx.builder
