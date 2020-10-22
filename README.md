@@ -1,12 +1,13 @@
-Repository for ME-Project
+#Repository for ME-Project
 
+##Folder Structure
 
-/doc - Text files for the project manuscript
+- /doc - Text files for the project manuscript
 
-/ref - References, related literatures, etc..
+- /ref - References, related literatures, etc..
 
-/res - Other useful resources
+- /res - Other useful resources
 
-/sim - Simulation files
+- /sim - Simulation files
 
-/auto - Project and repository automation utilities
+- /auto - Project and repository automation utilities
