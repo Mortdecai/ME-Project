@@ -1,6 +1,6 @@
-#Repository for ME-Project
+# Repository for ME-Project
 
-##Folder Structure
+## Folder Structure
 
 - /doc - Text files for the project manuscript
 
